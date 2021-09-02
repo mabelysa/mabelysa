@@ -11,6 +11,7 @@
 - :guitar: I play <i>guitar</i>.
 <p align="center">
 <a href="https://www.linkedin.com/in/mabelys-arias-li/" target="blank"> <img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" height="50" width="50"/></a>
+<a href= https://youtu.be/YHZdMOTbW7I?t=1949  target="blank"> <img align="center" src="https://download.logo.wine/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.png" alt="YouTube" height="50" width="70"/>
 </p>
 <!-- ### Hi there 👋
  -->
