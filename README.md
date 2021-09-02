@@ -1,6 +1,7 @@
 <div align="center"><h1>Hi, I'm Mabelys! 👋</h1>
   <h3>Software Developer • Explorer</h3>
 </div>
+
 - 🔭 I’m currently working on <i>TidyPark</i>.
 - 🌱 I’m currently learning <i>cloudinary</i>.
 - 👯 I’m looking to collaborate on a <i>react</i> project.
