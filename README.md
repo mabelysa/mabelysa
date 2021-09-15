@@ -1,5 +1,5 @@
 <div align="center"><h1>Hi, I'm Mabelys! 👋</h1>
-  <h3>Software Developer • Explorer</h3>
+  <h3>Software Developer • Public Servant</h3>
 </div>
 
 - 🔭 I’m currently working on <i>TidyPark</i>.
