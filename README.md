@@ -2,7 +2,7 @@
   <h3>Software Developer • Servant</h3>
 </div>
 
-- 🔭 I’m currently working on <i>TidyPark</i>.
+- 🔭 I’m currently working on <i>TidyPark</i> and <i>TV Shows App</i>.
 - 🌱 I’m currently learning <i>cloudinary</i>.
 - 👯 I’m looking to collaborate on a <i>react</i> project.
 - 📫 How to reach me: <b>mabelysa.dev</b>
