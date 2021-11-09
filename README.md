@@ -1,5 +1,5 @@
 <div align="center"><h1>Hi, I'm Mabelys! 👋</h1>
-  <h3>Software Developer • Servant</h3>
+  <h3>Software Developer • Community Servant</h3>
 </div>
 
 - 🔭 I’m currently working on <i>TidyPark</i> and <i>TV Shows App</i>.
