@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on the <i>ServiceNow</i> platform.
 - 🌱 I’m currently on the pursuit of obtaining my <i>CSA</i>.
 - 📫 How to reach me: <b>mabelysa.dev</b>
-- ⚡ Fun fact: I like to <i>whistle</i> and <i>mimic</i> different sounds.
+- ✨ Fun fact: I like to <i>whistle</i> and <i>mimic</i> different sounds.
 - :dog: I am a <b>doggie</b> aunt!
 - :guitar: I play <i>guitar</i>.
 <p align="center">
